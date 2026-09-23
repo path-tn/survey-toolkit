@@ -1,2 +1,8 @@
-# survey-toolkit
-Microtransit Survey Toolkit
+# Microtransit Survey Toolkit
+ 
+The Microtransit Survey Toolkit is a free, ready-to-use library of real customer survey questions for microtransit services. Questions were pulled from published peer-reviewed studies and evaluations of microtransit deployments across the U.S. and Canada, duplicates were removed, and questions were sorted by topic. 
+ 
+Every question keeps its original wording and lists its source, so agencies can build a survey quickly, avoid starting from scratch, and compare results against peer systems. 
+
+The survey toolkit was created in the summer of 2026 by Amelia Thomson and Candace Brakewood at the University of Tennessee, Knoxville, and funded by PATH-TN. Please reach out to cbrakewo@utk.edu with any questions. 
+
