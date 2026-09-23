@@ -1,0 +1,27 @@
+{
+  "title": "Microtransit Survey Toolkit",
+  "upload_type": "dataset",
+  "description": "<p>The Microtransit Survey Toolkit is a free, ready-to-use library of real customer survey questions for microtransit services. Questions were pulled from published peer-reviewed studies and evaluations of microtransit deployments across the U.S. and Canada, duplicates were removed, and questions were sorted by topic.</p><p>Every question keeps its original wording and lists its source, so agencies can build a survey quickly, avoid starting from scratch, and compare results against peer systems.</p>",
+  "creators": [
+    {
+      "name": "Thomson, Amelia",
+      "affiliation": "University of Tennessee, Knoxville"
+    },
+    {
+      "name": "Brakewood, Candace",
+      "affiliation": "University of Tennessee, Knoxville"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "microtransit",
+    "on-demand transit",
+    "public transportation",
+    "customer survey",
+    "survey questions",
+    "transit planning"
+  ],
+  "notes": "Funded by PATH-TN. Contact: cbrakewo@utk.edu"
+}
