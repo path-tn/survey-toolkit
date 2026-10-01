@@ -1,4 +1,6 @@
 # Microtransit Survey Toolkit
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22925903.svg)](https://doi.org/10.5281/zenodo.22925903)
  
 The Microtransit Survey Toolkit is a free, ready-to-use library of real customer survey questions for microtransit services. Questions were pulled from published peer-reviewed studies and evaluations of microtransit deployments across the U.S. and Canada, duplicates were removed, and questions were sorted by topic. 
  
@@ -12,9 +14,9 @@ The survey toolkit was created in the summer of 2026 by Amelia Thomson and Canda
 
 ## Citation
 
-Each GitHub release of this repository is archived on Zenodo, which assigns it a DOI. Please cite the toolkit using the DOI shown on the Zenodo record for the version you used.
+Each GitHub release of this repository is archived on Zenodo with its own DOI. The DOI below always points to the latest version. To cite a specific version, use the DOI listed for it on the [Zenodo record](https://doi.org/10.5281/zenodo.22925903).
 
-Thomson, A., & Brakewood, C. (2026). *Microtransit Survey Toolkit* [Data set]. Zenodo.
+Thomson, A., & Brakewood, C. (2026). *Microtransit Survey Toolkit* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22925903
 
 ## License
 
